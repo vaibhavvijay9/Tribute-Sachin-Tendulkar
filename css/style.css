@@ -12,7 +12,7 @@ body {
 
 #title {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 3.5em;
+    font-size: 3.5rem;
     font-weight: 400;
     margin: 10px 0 10px 0;
 }
@@ -73,8 +73,7 @@ strong {
 
 #tribute-link {
     text-decoration: none;
-    font-weight: 600;
-    font-size: 1.2em;
+    font-size: 1.5rem;
     display: inline-block;
     padding: 1% 0 3% 0;
 }
