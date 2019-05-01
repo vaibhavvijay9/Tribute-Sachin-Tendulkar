@@ -45,6 +45,12 @@ body {
     color: black;
 }
 
+
+/*h3,
+strong {
+    font-weight: 600;
+}*/
+
 #tribute-info {
     /*text-align: center;*/
 }
@@ -67,7 +73,8 @@ body {
 
 #tribute-link {
     text-decoration: none;
-    font-weight: 700;
+    font-weight: 600;
+    font-size: 1.2em;
     display: inline-block;
     padding: 1% 0 3% 0;
 }
