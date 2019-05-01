@@ -41,6 +41,8 @@ body {
 
 #img-caption {
     margin-top: 1%;
+    text-decoration: none;
+    color: black;
 }
 
 #tribute-info {
